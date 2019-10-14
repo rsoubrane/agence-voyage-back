@@ -5,6 +5,6 @@ module.exports = {
 	projectId: "react-agence-de-voyage",
 	storageBucket: "react-agence-de-voyage.appspot.com",
 	messagingSenderId: "516579147313",
-	appId: "1:516579147313:web:cd03eca23f36267043df10",
-	measurementId: "G-NDM85PFTS9"
+	appId: "1:516579147313:web:dbb8808eacdb2bf543df10",
+	measurementId: "G-C50BQ1BFLQ"
 };
